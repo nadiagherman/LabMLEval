@@ -1,0 +1,14 @@
+['banana', 'peach',''apple', 'apple', 'peach', 'grapes', 'apple', 'grapes', 'banana', 'banana', 'grapes']
+['apple','grapes', 'banana', 'apple', 'peach', 'apple', 'apple', 'grapes', 'banana', 'peach', 'grapes']
+
+['apple', 'banana', 'peach', 'peach', 'banana', 'banana', 'peach', 'banana', 'peach', 'peach', 'banana', 'apple']
+['apple', 'peach', 'peach', 'apple', 'banana', 'banana', 'peach', 'banana', 'banana', 'peach', 'apple', 'apple']
+
+['red', 'red', 'blue', 'blue', 'yellow', 'red', 'yellow', 'yellow', 'blue', 'red', 'blue', 'yellow', 'red', 'red', 'yellow', 'blue']
+['red', 'blue', 'blue', 'blue', 'red', 'red', 'yellow', 'yellow', 'blue', 'yellow', 'blue', 'red', 'blue, 'red', 'yellow', 'red']
+
+['green', 'red', 'red', 'green', 'blue', 'blue', 'yellow', 'red', 'yellow', 'yellow', 'green', 'blue', 'red', 'blue', 'yellow', 'red', 'green', 'red', 'yellow', 'blue']
+['green', 'red', 'blue', 'yellow', 'blue', 'blue', 'green', 'red', 'yellow', 'yellow', 'green', 'blue', 'yellow', 'blue', 'green', 'blue', 'red', 'red', 'yellow', 'red']
+
+['red', 'red', 'blue', 'blue', 'green', 'blue', 'green', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue', 'blue']
+['red', 'red', 'green', 'blue', 'red', 'blue', 'green', 'blue', 'blue', 'red', 'blue', 'blue', 'green', 'blue']
